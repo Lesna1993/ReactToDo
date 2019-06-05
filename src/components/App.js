@@ -10,7 +10,7 @@ class App extends Component {
       {
         id: 0,
         text: 'skończyć pisać praće',
-        date: '2019-06-15',
+        date: '2019-06-19',
         important: true,
         active: true,
         finishDate: null
